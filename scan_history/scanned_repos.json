@@ -2484,8 +2484,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "aaronson2012/grok": {
+      "first_scan": "2026-01-15 03:45:51",
+      "last_scan": "2026-01-15 03:45:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 355,
-  "last_updated": "2026-01-14 04:25:58"
+  "total_scanned": 356,
+  "last_updated": "2026-01-15 03:45:51"
 }
