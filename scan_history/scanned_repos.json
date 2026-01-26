@@ -2764,8 +2764,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "AJaySi/ALwrity": {
+      "first_scan": "2026-01-26 04:33:37",
+      "last_scan": "2026-01-26 04:33:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Todd7777/Glaucoma_OneShot": {
+      "first_scan": "2026-01-26 04:33:37",
+      "last_scan": "2026-01-26 04:33:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 395,
-  "last_updated": "2026-01-25 04:39:29"
+  "total_scanned": 397,
+  "last_updated": "2026-01-26 04:33:37"
 }
